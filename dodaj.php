@@ -8,7 +8,7 @@
   <form method="get" action="insert.php">
    <table border="0">
       <tr><td>Numer silnika</td><td><input type="number" name="nr" maxlen="20" size="20"></td></tr>
-      <tr><td>Marka</td><td><input name="marka"></td></tr>
+      <tr><td>Marsasaasasasassaka</td><td><input name="marka"></td></tr>
       <tr><td>Model</td><td><input name="model"></td></tr>
       <tr><td>Kolor</td><td><input type="color" name="kolor"></td></tr>
       <tr><td>Rocznik</td><td><input type="number" min="1990" max="2020" name="rocznik"></td></tr>
